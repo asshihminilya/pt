@@ -1,0 +1,10 @@
+class Dog
+  def initialize(color)
+    @color = color
+  end
+
+  def bark(name)
+    puts "#{@name} говорит: Гав!"
+  end
+end
+
